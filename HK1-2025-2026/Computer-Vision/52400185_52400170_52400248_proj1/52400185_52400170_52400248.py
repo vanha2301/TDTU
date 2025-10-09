@@ -1,4 +1,6 @@
-
+# 52400185 Văn Hà
+# 52400170 Hoài Bảo
+# 52400248 Minh Trí
 
 import cv2
 import numpy as np
